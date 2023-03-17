@@ -1,21 +1,21 @@
 foo: bar
-  items:
+items:
   - 1
   - 2
   - 3
   - 4
   - 5
-  names:
+names:
   - "one"
   - "two"
   - "three"
   - "four"
-  fx: { thing1: huey, thing2: louie, thing3: dewey }
+fx: { thing1: huey, thing2: louie, thing3: dewey }
 
 pleh: help
-  items1: [ 1, 2, 3, 4, 5 ]
-  names1: [ "one", "two", "three", "four" ]
-  items2:
+items1: [ 1, 2, 3, 4, 5 ]
+names1: [ "one", "two", "three", "four" ]
+items2:
   - things:
       thing1: huey
       things2: dewey
