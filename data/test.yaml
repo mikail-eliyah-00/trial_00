@@ -2,7 +2,12 @@ foo: bar
 pleh: help
 stuff:
   foo: bar
-  bar: > 
+  bar1: > 
+    this is not a normal string it
+    spans more than
+    one line
+    see?
+  bar2: |
     this is not a normal string it
     spans more than
     one line
