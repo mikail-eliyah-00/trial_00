@@ -1,5 +1,20 @@
 foo: bar
+  items:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+  names:
+    - "one"
+    - "two"
+    - "three"
+    - "four"
+
 pleh: help
+  items: [ 1, 2, 3, 4, 5 ]
+  names: [ "one", "two", "three", "four" ]
+
 stuff:
   foo: bar
   bar1: > 
